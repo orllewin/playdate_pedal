@@ -1,2 +1,2 @@
-# playdate_pedal
-Hardware momentary pedal for Playdate
+# Playdate Pedal
+Hardware momentary pedal for Playdate.
